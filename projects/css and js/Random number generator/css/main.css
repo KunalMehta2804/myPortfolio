@@ -1,0 +1,79 @@
+/*******************
+ General 
+ *******************/
+body{
+	margin:0;
+	padding:0;
+}
+
+*{
+	text-align: center;
+}
+
+/*******************
+ Heading 
+ *******************/
+
+
+header {
+	margin-top: -16px;
+	background:tomato;
+	height:20vh;
+}
+
+header h1{
+	color:white;
+	font-size: 5vh;
+	position: relative;
+  	top: 50%;
+  	transform: translateY(-50%);
+}
+
+/**********************
+Section
+************************/
+section {
+	height: 60vh;
+	margin:0;
+	padding:0;
+}
+
+#Random_number{
+	height:80%;
+	margin:0;
+	padding:0;
+	font-size:40vh;
+}
+
+section button{
+	background:lightgrey;
+	width:80%;
+	height:10%;
+	margin:0;
+	padding:0;
+	font-size: 100%;
+}
+/*********************
+Footer
+***********************/
+footer img{
+	width:50px;
+	height:50px;
+	border:solid white 2px;
+	margin:0;
+	padding:0;
+	margin-top:-8px;	
+}
+
+footer {
+	margin-top: -16px;
+	height:20vh;
+	color:white;
+	background: tomato;
+	font-size: 16px	;
+	padding-bottom: 20px;
+}
+
+/**********************
+Media qUerires
+**********************/

@@ -1,0 +1,586 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"move",
+				"moveBall"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"random",
+				"randomColor"
+			],
+			[
+				"rand",
+				"randomNumber"
+			],
+			[
+				"ra",
+				"randomNumber"
+			],
+			[
+				"vel",
+				"vel_x"
+			],
+			[
+				"bo",
+				"border-color"
+			],
+			[
+				"ran",
+				"randNum"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"getcell",
+				"getcellx"
+			],
+			[
+				"get",
+				"get_cell"
+			],
+			[
+				"get_",
+				"get_random_cell"
+			],
+			[
+				"Zer",
+				"zero_zero"
+			],
+			[
+				"cl",
+				"click_and_append"
+			],
+			[
+				"o",
+				"o"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"time",
+				"time_taken"
+			],
+			[
+				"model",
+				"model_name\t(car.py)"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"brach",
+				"branch"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"b",
+				"bjqs"
+			],
+			[
+				"inline-",
+				"inline-block"
+			],
+			[
+				"logoimg",
+				"logoimg1\t(index.html)"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"list",
+				"list_of_num"
+			],
+			[
+				"list_num",
+				"list_num"
+			],
+			[
+				"try",
+				"try\tTry/Except/Else"
+			],
+			[
+				"n",
+				"number"
+			],
+			[
+				"a",
+				"additional\t(mobile_phone.py)"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"no",
+				"no_of_cores"
+			],
+			[
+				"no_",
+				"no_of_camera"
+			],
+			[
+				"mo",
+				"mobile\t(mobile_phone.py)"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size\t(random.css)"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"pr",
+				"products"
+			],
+			[
+				"back",
+				"background-repeat\t(main.css)"
+			],
+			[
+				"phone",
+				"phone.png\t(main.css)"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"list-style",
+				"list-style-type"
+			],
+			[
+				"url",
+				"urlopen"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"S",
+				"SCOPES"
+			],
+			[
+				"reques",
+				"requestAnimFrame"
+			],
+			[
+				"img",
+				"imgFrog"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"he",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 213.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 637.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"for letter in \"kunal\":",
+			"\"so you are using python\"",
+			"1+3",
+			"\"kunal\"",
+			"java"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/Raj/Desktop/kunal projects/Html/python coding page/js/main.js",
+		"/C/Users/Raj/Desktop/kunal projects/Html/python coding page/index.html",
+		"/C/Users/Raj/Desktop/kunal projects/Html/python coding page/css/main.css",
+		"/C/Users/Raj/Desktop/kunal projects/Html/makeTheBallMove/index.html",
+		"/C/Users/Raj/Desktop/kunal projects/Html/makeTheBallMove/js/main.js",
+		"/C/Users/Raj/Desktop/kunal projects/Html/makeTheBallMove/css/main.css",
+		"/C/Users/Raj/Desktop/kunal projects/Html/ping pong/css/main.css",
+		"/C/Users/Raj/Desktop/kunal projects/Html/ping pong/js/main.js",
+		"/C/Users/Raj/Desktop/kunal projects/Html/ping pong/index.html",
+		"/C/Users/Raj/Desktop/kunal projects/Html/ping pong/pingPong.sublime-project",
+		"/C/Users/Raj/Desktop/kunal projects/Html/ping pong/ping.sublime-project",
+		"/C/Users/Raj/Desktop/kunal projects/Html/PING PONG/css/main.css",
+		"/C/Users/Raj/Desktop/kunal projects/Html/PING PONG/js/main.js",
+		"/C/Users/Raj/Desktop/kunal projects/Html/PING PONG/index.html",
+		"/C/Users/Raj/Desktop/kunal projects/Python/Dynamic_dungeon.py",
+		"/C/Users/Raj/Desktop/kunal projects/html/TIC TAC TOE/index.html",
+		"/C/Users/Raj/Desktop/kunal projects/html/TIC TAC TOE/js/main.js",
+		"/C/Users/Raj/Desktop/kunal projects/html/TIC TAC TOE/js/wantto.js",
+		"/C/Users/Raj/Desktop/kunal projects/html/TIC TAC TOE/css/main.css",
+		"/C/Users/Raj/Desktop/kunal projects/html/tests/videotrying.html",
+		"/C/Users/Raj/Desktop/kunal projects/python/example person.py",
+		"/C/Users/Raj/Desktop/kunal projects/python/car.py",
+		"/C/Users/Raj/Desktop/kunal projects/python/person.py",
+		"/C/Users/Raj/Desktop/organizer (1)/Boopathi project/index.html",
+		"/C/Users/Raj/Desktop/organizer (1)/Boopathi project/css/main.css",
+		"/C/Users/Raj/Desktop/organizer (1)/Boopathi project/javascript/main.js",
+		"/C/Users/Raj/Desktop/organizer (1)/Boopathi project/contact.html",
+		"/C/Users/Raj/Desktop/organizer (1)/Boopathi project/about.html",
+		"/C/Users/Raj/Desktop/organizer (1)/Boopathi project/css/responsive.css",
+		"/C/Users/Raj/Desktop/organizer (1)/Boopathi project/css/respnsive.css",
+		"/C/Users/Raj/Desktop/jcobb-basic-jquery-slider-8e19d51/demo.css",
+		"/C/Users/Raj/Desktop/jcobb-basic-jquery-slider-8e19d51/index.html",
+		"/C/Users/Raj/Desktop/organizer (1)/website testing/main.js",
+		"/C/Users/Raj/Desktop/kunal projects/html/main.css",
+		"/C/Users/Raj/Desktop/kunal projects/html/index.html",
+		"/C/Users/Raj/Desktop/kunal projects/html/main.js",
+		"/C/Users/Raj/Desktop/organizer (1)/website testing/index.html",
+		"/C/Users/Raj/Desktop/organizer (1)/website testing/main.css",
+		"/C/Users/Raj/Desktop/kunal projects/html/inputs.html",
+		"/C/Users/Raj/Desktop/python files/median.py",
+		"/C/Users/Raj/Desktop/python files/ecesdf.py",
+		"/C/Users/Raj/Desktop/python files/mobile_phone.py",
+		"/C/Users/Raj/Desktop/Boopathi project/index.html",
+		"/C/Users/Raj/Desktop/Boopathi project/javascript/main.js",
+		"/C/Users/Raj/Desktop/Boopathi project/css/main.css",
+		"/C/Users/Raj/Desktop/python files/watrerinjc",
+		"/C/Users/Raj/Desktop/python files/mine.py",
+		"/C/Users/Raj/Desktop/python files/google apis.py",
+		"/C/Users/Raj/Desktop/python files/water.py",
+		"/C/Users/Raj/Desktop/python files/monster.py",
+		"/C/Users/Raj/Desktop/portfolio/index.html",
+		"/C/Users/Raj/Desktop/organizer (1)/all kunal's things/random website/css/responsive.css",
+		"/C/Users/Raj/Desktop/organizer (1)/all kunal's things/random website/index.html",
+		"/C/Users/Raj/Desktop/organizer (1)/all kunal's things/random website/css/random.css",
+		"/C/Users/Raj/Desktop/python files/test.py",
+		"/C/Users/Raj/Desktop/portfolio/css/main.css",
+		"/C/Users/Raj/Desktop/python files/frog.py",
+		"/C/Users/Raj/Desktop/organizer (1)/all kunal's things/random website/scripts/javascript.js",
+		"/C/Users/Raj/Desktop/python files/My_classes.py",
+		"/C/Users/Raj/Desktop/portfolio/contact.html",
+		"/C/Users/Raj/Desktop/portfolio/about.html",
+		"/C/Users/Raj/Desktop/portfolio/css/responsive.css",
+		"/C/Users/Raj/Desktop/portfolio/water.html",
+		"/C/Users/Raj/Desktop/ping pong/javascript/main.js",
+		"/C/Users/Raj/Desktop/ping pong/css/main.css",
+		"/C/Users/Raj/Desktop/ping pong/index.html",
+		"/C/Users/Raj/Desktop/python files/product sum .py",
+		"/C/Users/Raj/Desktop/organizer (1)/all kunal's things/example/css/main.css",
+		"/C/Users/Raj/Desktop/organizer (1)/all kunal's things/example/index.html",
+		"/C/Users/Raj/Desktop/python files/random website scraper.py",
+		"/C/Users/Raj/Desktop/portfolio/encrptry.py",
+		"/C/Users/Raj/Desktop/organizer (1)/all kunal's things/new web/index.html",
+		"/C/Users/Raj/Desktop/java programs/water.java",
+		"/C/Users/Raj/Desktop/java programs/methods",
+		"/C/Users/Raj/Desktop/python files/scraper.py",
+		"/C/Users/Raj/Desktop/organizer (1)/jquery trying out/css/main.css",
+		"/C/Users/Raj/Desktop/organizer (1)/jquery trying out/index.html",
+		"/C/Users/Raj/Desktop/organizer (1)/jquery trying out/scripts/main.js",
+		"/C/Users/Raj/Desktop/simple add and subtract/index.html",
+		"/C/Users/Raj/Desktop/water kunal/Googletest.py",
+		"/D/jquery/jquery.js",
+		"/C/Users/Raj/Desktop/simple add and subtract/scripts/main.js",
+		"/C/Users/Raj/Desktop/simple add and subtract/css/main.css",
+		"/C/Users/Raj/Desktop/hangman/css/main.css",
+		"/C/Users/Raj/Desktop/hangman/index.html",
+		"/C/Users/Raj/Desktop/hangman/scripts/main.js",
+		"/C/Users/Raj/Desktop/html5 game/scripts/html5game.js",
+		"/C/Users/Raj/Desktop/html5 game/index.html",
+		"/C/Users/Raj/Desktop/html5 game/css/main.css",
+		"/C/Users/Raj/Desktop/html5 game/example/index.html",
+		"/C/Users/Raj/Desktop/html5 game/example/frog.js",
+		"/C/Users/Raj/Desktop/html5 game/example/treehouse.js",
+		"/C/Users/Raj/Desktop/all kunal's things/python files/request_library/tryying.py",
+		"/C/Users/Raj/Desktop/html5 game/javascript/game.js",
+		"/C/Users/Raj/Desktop/all kunal's things/form fillup/index.html",
+		"/C/Users/Raj/Desktop/all kunal's things/random website/index.html",
+		"/C/Users/Raj/Desktop/all kunal's things/random website/css/responsive.css",
+		"/C/Users/Raj/Desktop/all kunal's things/google.html",
+		"/C/Users/Raj/Desktop/random website/index.html",
+		"/C/Users/Raj/Desktop/random website/css/random.css",
+		"/C/Users/Raj/Desktop/random website/scripts/javascript.js",
+		"/C/Users/Raj/Desktop/random website/css/responsive.css",
+		"/C/Users/Raj/Desktop/new web/scripts/general.js",
+		"/C/Users/Raj/Desktop/new web/css/new.css",
+		"/C/Users/Raj/Desktop/new web/index.html",
+		"/C/Users/Raj/Desktop/new web/scripts/javascript.js",
+		"/C/Users/Raj/Desktop/sublime/python projects/dungeon.py",
+		"/C/Users/Raj/Desktop/sublime/index.html",
+		"/C/Users/Raj/Desktop/sublime/kunal.css",
+		"/C/Users/Raj/Desktop/sublime/css/normalize.css",
+		"/C/Users/Raj/Desktop/sublime/css/main.css",
+		"/C/Users/Raj/Desktop/python files/fors.py",
+		"/C/Users/Raj/Desktop/New folder (3)/index.html/index.html",
+		"/C/Users/Raj/Desktop/New folder (3)/index.html/css/main.css",
+		"/C/Users/Raj/Desktop/New folder (3)/index.html/css/normalize.css",
+		"/C/Users/Raj/Desktop/sublime/kunal.html",
+		"/C/Users/Raj/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Raj/Desktop/sublime projects/first sublime prijext.py"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"initialAge",
+			"20vw",
+			"3vw",
+			";\n",
+			"%;",
+			";\n",
+			"water",
+			"25px",
+			";\n",
+			"20px",
+			"figcaption",
+			"500px",
+			";\n",
+			"20px",
+			"'])\n",
+			"board",
+			"print",
+			"()",
+			"mfsa",
+			"the",
+			"kmehta",
+			" {"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "pingPong.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 693.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1366.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

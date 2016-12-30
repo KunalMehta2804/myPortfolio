@@ -1,0 +1,42 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="UTF-8">
+    <title>Random Number Generator</title>
+    <link rel="stylesheet" href = "css\main.css" >
+
+</head>
+<body>
+    <header>
+    <h1>Eat Work Sleep Random</h1>
+
+    </header>
+    <section>
+
+    <div id = "Random_number">54</div>
+    <button onclick = "getRandomNumber();" id = RandButton>Click Me!</button>
+
+    </section>
+
+    <footer>
+    <p>&copy; Kunal mehta 2016</p>
+    <div id = "social_media">
+    <a href = "https://www.facebook.com/kunal.mehta.7161953"><img src="img/facebook-icon.png" alt=""></a>
+    <a href = "https://twitter.com/metha_kunal"><img src="img/twitter-icon.png" alt=""></a>
+    </div>
+    </footer>
+
+    <script src = "js/main.js"></script>
+
+    <script>
+        function getRandomNumber(){
+        var randNum = Math.floor(Math.random() * 100)-1;
+        var div = document.getElementById("Random_number");
+        div.innerHTML = randNum;
+    }
+
+    </script>
+</body>
+</html>

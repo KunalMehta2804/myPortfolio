@@ -1,0 +1,33 @@
+html,body{
+	width:100%;
+	height:100%;
+}
+
+body{
+	margin:0;
+}
+
+header{
+	width:100%;
+	height:20vh;
+	background: orange;
+}
+
+section{
+	width:100%;
+	height:60vh;
+	background: white;
+	text-align: center;
+}
+
+footer{
+	width:100%;
+	height:20vh;
+	background:green;
+}
+
+img{
+	height: 50vh;
+	position: relative;
+	top: 5vh;
+}
